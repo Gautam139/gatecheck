@@ -27,6 +27,9 @@ Easy way to integrate ngx-admin with .NET, Node.js, Java or PHP. [Checkout our S
 #### Corporate
 <a target="_blank" href="http://akveo.com/ngx-admin/pages/dashboard?theme=corporate&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/GpUt6NW.png"/></a>
 
+#### Corporate
+<a target="_blank"><img src="gatecheck.png"/></a>
+
 ### What's included:
 
 - Angular 8+ & Typescript
